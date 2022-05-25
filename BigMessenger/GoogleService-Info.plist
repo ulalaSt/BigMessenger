@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1055308293778-8cadsnnjsa6hkhe94m72d5kk8gr850rp.apps.googleusercontent.com</string>
+	<string>955565413243-6n5pp3fdk8i1l5plq737pejhhna9t43m.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1055308293778-8cadsnnjsa6hkhe94m72d5kk8gr850rp</string>
+	<string>com.googleusercontent.apps.955565413243-6n5pp3fdk8i1l5plq737pejhhna9t43m</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDmHlR9gShrvVDMlPLe8eLHPDiDcSGEP3s</string>
+	<string>AIzaSyCmo5yuY5i-904CyQBkxWfRAAtHRGPmwGQ</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1055308293778</string>
+	<string>955565413243</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>IDK.BigMessenger</string>
 	<key>PROJECT_ID</key>
-	<string>bigmessenger-e224a</string>
+	<string>big-messenger</string>
 	<key>STORAGE_BUCKET</key>
-	<string>bigmessenger-e224a.appspot.com</string>
+	<string>big-messenger.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1055308293778:ios:038d91517542248738284b</string>
+	<string>1:955565413243:ios:32762bd7694d4fa43fa3de</string>
 </dict>
 </plist>
